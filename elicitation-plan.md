@@ -49,7 +49,9 @@ Flowchart fyrir einfalt almennt notkunartilvik
 - 13:50–14:00 Samræming í lok viðtals
 
 ## Áætlaðar afurðir sem koma út úr kröfusöfnuninni 
-Skýrar hugmyndir um hvernig virkni forritstins á að fara fram, hvernig notendaupplifun á að vera og hvaða utanaðkomandi þjónustur þarf að eiga í samskiptum við við notkun forritsins.
+- Skýrar hugmyndir um hvernig virkni forritstins á að fara fram, hvernig notendaupplifun á að vera 
+- Upplýsingar sem hægt er að búa til vandaðar kröfur úr
+- Skýrt hvaða utanaðkomandi þjónustur þarf að eiga í samskiptum við við notkun forritsins.
 
 ## Áhætta sem getur hindrað kröfusöfnun 
 - Of skammur tími fyrir viðtal
