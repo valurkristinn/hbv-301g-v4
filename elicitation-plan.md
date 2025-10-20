@@ -37,7 +37,7 @@ Fundurinn haldinn kl 12:00 föstudaginn 17. október í Öskju
 
 ## Líkön til að kveikja umræðu, skjöl og kerfi 
 Flowchart fyrir einfalt almennt notkunartilvik
-!( flowchart.png )
+![](flowchart.png)
 
 ## Dagskrá/Tímalína
 - 13:00–13:10 Kynning
