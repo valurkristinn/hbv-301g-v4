@@ -2,16 +2,24 @@
 
 Í þessu repo eru þrjár aðalskrár sem þið fyllið út:
 
-- `elicitation-plan.md` – áætlun fyrir kröfugreiningarfund (um ½ bls).
-- `requirements.md` – flokkuð samantekt á kröfum (um 1 bls).
-- `use-case.md` – ítarlegur fully dressed use case (um 1 bls).
+- (elicitation-plan.md)[elicitation-plan.md] – áætlun fyrir kröfugreiningarfund.
+- (requirements.md)[requirements.md] – flokkuð samantekt á kröfum).
+- (use-case.md)[use-case.md] – ítarlegt fully dressed use case.
 
 ---
 
 ## Hópur
-- Nöfn hópmeðlima
-- GitHub slóð
-- Verkaskipting
+- Egill og Valur
+- Verkaskipting:
+  ### Egill
+  - Requirements
+  - Use case 
+  
+  ### Valur
+  - Elicitation plan
+  - Ígrundun og meðfylgjandi
 
 ## Ígrundun
-Lýsið stuttlega hvernig kröfugreiningin gekk, hvað þið lærðuð og hvað mætti bæta næst.
+Þetta gekk að mestu leyti vel, sérstaklega að vinna úr gögnun.
+Það kom þó upp eitt vandamál, hóparnir höfðu túlkað verkefnalýsinguna á öfugan hátt svo það fór fulllangur tími í að rökræða hvor væri rétta túlkunin.
+Hópavinnan gekk allt í allt mjög vel.
