@@ -2,9 +2,9 @@
 
 Í þessu repo eru þrjár aðalskrár sem þið fyllið út:
 
-- (elicitation-plan.md) – áætlun fyrir kröfugreiningarfund.
-- (requirements.md) – flokkuð samantekt á kröfum).
-- (use-case.md) – ítarlegt fully dressed use case.
+[elicitation-plan](elicitation-plan.md) – áætlun fyrir kröfugreiningarfund.
+[requirements](requirements.md) – flokkuð samantekt á kröfum).
+[use-case](use-case.md) – ítarlegt fully dressed use case.
 
 ---
 
